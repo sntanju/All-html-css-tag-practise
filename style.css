@@ -1,0 +1,44 @@
+.second-class {
+    background-color: burlywood;
+    color: turquoise;
+}
+body{
+    font-family:sans-serif;
+}
+.first-class{
+    color: gray;
+    background-color: turquoise;
+}
+#id1{
+    background-color: lightseagreen;
+    color: maroon;
+}
+.sec{
+    background-color: mediumaquamarine;
+    margin: 10px;
+    border-radius: 30px;
+    padding: 15px;
+}
+.title{
+    background-color: cyan;
+    color: darkkhaki;
+    text-align: center;
+    font-size: 50px;
+}
+.blog{
+    text-align: center;
+}
+.div-style{
+    background-color: cornflowerblue;
+    border: 30px solid mediumorchid;
+    border-radius: 20px;
+    margin: 20px;
+}
+.red{
+    color: red;
+}
+.bold{
+    margin-left: 30px;
+    font-size: 80px;
+   color: deepskyblue;
+}
