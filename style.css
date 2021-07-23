@@ -51,3 +51,21 @@ body{
 .v-width{
     width: 40%;
 }
+/* form style  */
+nav>ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 30px;
+    padding: 10px;
+}
+nav li:hover{
+    background-color: firebrick;
+    border-radius: 15px;
+}
+nav li a {
+    color:rgb(4, 78, 54) ;
+    text-decoration: none;
+    font-size: 25px;
+}
